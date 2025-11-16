@@ -1,0 +1,4 @@
+id,name,lat,lon,contactInfo,acceptedFoodTypes
+101,Food Bank,40.7138,-74.0070,5552223333,"Meal,NonPerishable,Perishable,Ingredient"
+102,Soup Kitchen,40.7100,-74.0050,5554445555,"Meal,Perishable,Ingredient"
+103,Community Pantry,40.7300,-74.0000,5556667777,"NonPerishable,Ingredient"

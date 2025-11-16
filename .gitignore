@@ -21,6 +21,7 @@ local.sbt
 # VS Code
 .vscode/
 
+
 # Metals
 .bloop/
 .metals/
@@ -30,3 +31,6 @@ metals.sbt
 .idea
 .idea_modules
 /.worksheet/
+
+# Python
+.pixi
